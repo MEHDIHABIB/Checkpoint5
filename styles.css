@@ -1,0 +1,40 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+background-color: #91684a;
+
+}
+
+li {
+  float: left;
+  border-right: 1px solid white;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #58391c;
+  color: white;
+}
+
+.body {
+    font-family: 'roboto';
+}
+
+.h1 {
+  color: #58391c;
+  text-align: center;
+}
+
+.top {
+  margin-top: 100px;
+  text-align: center;
+}
